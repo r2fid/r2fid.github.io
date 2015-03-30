@@ -1,6 +1,5 @@
 You've found Johnathan's R2!
 
-<<<<<<< HEAD
 If I can build an R2, then you can too! I did not have any particular background in machine work, electronics, or even prop building...I'm just a music teacher and opera singer! With lots of work, study, and help from our international group and the local Bay Area R2 Builders, building an R2 became a reality.  
 
 My R2-D2 is primarily all aluminum with the exception of steal feet, and is being run with the Stealth Controller system. 
@@ -10,38 +9,5 @@ This R2 was one of the first to use the Dykem color, similarly used in Star Wars
 This R2-D2 made the cross-country trip to Florida for Celebration VI, has worked at Skywalker Ranch and the former special effects studio of Industrial Light and Magic, has been seen on television and in print, and visits schools, hospitals, and other community events regularly. 
 
 The next step is animating more panels and installing the many gadgets that R2 shows off in the films. 
-=======
-If I can build an R2, then you can too!
-I did not have any particular background
-in machine work, electronics, or even
-prop building...I'm just a music teacher
-and opera singer! With lots of work,
-study, and help from our international
-group and the local Bay Area R2
-Builders, building an R2 became a
-reality.  
 
-My R2-D2 is primarily all aluminum with
-the exception of steal feet, and is
-being run with the Stealth Controller
-system. 
 
-This R2 was one of the first to use the
-Dykem color, similarly used in Star
-Wars: A New Hope. The Dykem has a great
-blue for R2 but can also have a purple
-hue based on the ambient light. 
-
-This R2-D2 made the cross-country trip
-to Florida for Celebration VI, has
-worked at Skywalker Ranch and the former
-special effects studio of Industrial
-Light and Magic, has been seen on
-television and in print, and visits
-schools, hospitals, and other community
-events regularly. 
-
-The next step is animating more panels
-and installing the many gadgets that R2
-shows off in the films. 
->>>>>>> origin/master
