@@ -1,0 +1,7 @@
+I still recall watching the New Hope at the Keith Albee Theatre and ever since, realizing I wanted to drive future technology that was shown on that screen that day. Which lead to industrial electronics, early computer systems along with developing numerous robots in mid teens. Which has provided me with an interesting career on cutting edge technology.
+
+I started building Astromechs at the request of my daughter Madison. She asked ifHer R2-D2 is primarily all aluminum with the exception of steal feet, and is being run with a controller system I designed for her. That lead to a complete rethink of how our astromechs should interoperate and how the platform as a whole should communicate with different functional systems with one another.
+
+That lead to the RSeries OSHW design philosophy, developed with Paul Murphy (JoyMonkey), Brett Bourbin (Selgus) and John Vannoy (Teeces). 
+
+Visit www.rseries.net
